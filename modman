@@ -1,0 +1,5 @@
+app/code/local/Tamedo/AjaxCart app/code/local/Tamedo/AjaxCart
+app/design/frontend/default/default/layout/ajaxcart.xml app/design/frontend/default/default/layout/ajaxcart.xml
+app/design/frontend/default/default/template/ajaxcart app/design/frontend/default/default/template/ajaxcart
+app/etc/modules/Tamedo_AjaxCart.xml app/etc/modules/Tamedo_AjaxCart.xml
+js/ajaxcart js/ajaxcart
